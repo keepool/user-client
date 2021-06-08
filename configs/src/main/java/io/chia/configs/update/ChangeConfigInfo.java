@@ -21,7 +21,7 @@ public class ChangeConfigInfo {
 
     private static Map<String, String> CHANGE_KEYS = new HashMap<>();
     private static Map<String, String> VALUE = new HashMap<>();
-    private static String API_HOST_NAME = "https://www.tiantianmining.com";
+    private static String API_HOST_NAME = "https://www.xxx.com";
     static {
         CHANGE_KEYS.put("pooTargetAddress", "pool:xch_target_address");
         CHANGE_KEYS.put("farmerTargetAddress", "farmer:xch_target_address");
